@@ -26,9 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Nabeel Chougle"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Tech"
   uri              : # URL
   email            : "chouglenabeel@gmail.com" 
 
